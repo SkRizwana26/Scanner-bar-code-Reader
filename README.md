@@ -71,15 +71,14 @@ Open `http://localhost:3000` in your browser, or use the local URL shown in your
 
 ## 📸 Screenshots
 
-Add your actual application screenshots to a folder named `screenshots` in the project root.
-
-### Dashboard
-
-![Scanner Dashboard](screenshots/dashboard.png)
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](<screenshorts/login page.png>)
+
+### Dashboard
+![Scanner Dashboard](screenshorts/dashborad.png)
+
 
 ### QR Scanner
 ![QR Scanner](<screenshorts/scanner page.png>)
@@ -110,9 +109,3 @@ Add your actual application screenshots to a folder named `screenshots` in the p
 
 No license has been specified yet.
 
----
-
-Developed using React.js.
-=======
-# Scanner-bar-code-Reader
->>>>>>> 7dbd10fdf02cff201058cba9ad83c3db0a1d5cb4
