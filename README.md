@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 Scanner Dashboard
 
 ### React-Based Login and QR Scanner Application
@@ -112,3 +113,6 @@ No license has been specified yet.
 ---
 
 Developed using React.js.
+=======
+# Scanner-bar-code-Reader
+>>>>>>> 7dbd10fdf02cff201058cba9ad83c3db0a1d5cb4
